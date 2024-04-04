@@ -3,15 +3,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+1N;" />
 </p><br>
 
- <p align='center'><img src="https://komarev.com/ghpvc/?username=U7P4L-IN&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" /><br>
-
-<p align='center'><a href="https://github.com/U7P4L-IN?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/U7P4L-IN?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a><a href="https://github.com/U7P4L-IN"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/U7P4L-IN?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a><br>
-
-<a href="https://api.daily.dev/get?r=CyberCarboon2"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<p align='center'><a href="https://api.daily.dev/get?r=U7P4L-IN">
-
-
-<p align="center">
+>
   <a href="https://github.com/U7P4L-IN"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Revarse%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
